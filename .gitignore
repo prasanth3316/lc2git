@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/

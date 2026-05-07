@@ -1,6 +1,6 @@
 # lc2git 🚀
 
-> Push your daily LeetCode solutions to GitHub automatically — one command.
+Push your daily LeetCode solutions to GitHub automatically.
 
 ## Features
 
@@ -12,7 +12,7 @@
 - Credentials stored securely at `~/.config/lc2git/config.json` (mode 600)
 - All secrets can also be passed via **environment variables**
 
-## Installation
+## Install
 
 ```bash
 pip install lc2git
